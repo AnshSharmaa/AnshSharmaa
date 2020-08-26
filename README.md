@@ -1,12 +1,12 @@
-# Hi there, I'm Abhinav (RZWSHRE)
+# Hi there, I'm Ansh Sharma
 
 
-- 🔭 I’m currently working on multiple Web Applications.
-- 🌱 I’m currently learning UI/UX Design.
-- 🤔 I’m looking for help with Backend Development.
-- 💬 Ask me about Linux (maybe?).
+- 🔭 I’m currently working on my first venture(https://www.instagram.com/getatreeorg/)
+- 🌱 I’m currently learning wordpress.
+- 🤔 I’m looking for people to work with.
+- 💬 Ask me about Get A Tree (maybe?).
 - 📫 How to reach me: You don't, I find you (kidding, scroll down a bit..).
-- ⚡ Fun fact: I make music too.
+- ⚡ Fun fact: I make music too(with my mouth or otherwise).
 
 
 ### Languages and Tools:
