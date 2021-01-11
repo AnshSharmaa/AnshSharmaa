@@ -8,9 +8,10 @@
 - 📫 How to reach me:I'm most active on Instagram (scroll down a bit..).
 - ⚡ Fun facts: I make music too(with my mouth or otherwise) and I can assemble Pc's in my sleep(with cable management!).
 
-### Connect with me:
+### Let's Connect :coffee:
+<p align="center">
 
-[<img align="left" alt="Abhinav Tomar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]('https://www.linkedin.com/in/ansh-sharma-0189b5195/')
-[<img align="left" alt="Rez No Might | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]('https://www.instagram.com/ansh.x_x/')
-
-<br />
+<a href="https://github.com/AnshSharmaa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ansh-sharma-0189b5195/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ansh.x_x/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
