@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning MERN Stack.
 - 🤔 I’m looking for people to work with.
 - 💬 Ask me about Get A Tree/Pc parts (maybe?).
-- 📫 How to reach me: I'm most active on Instagram (scroll down a bit..).
+- 📫 How to reach me: I'm most active on Instagram.
 - ⚡ Fun facts: I make music too(with my mouth or otherwise) and I can assemble Pc's in my sleep(with cable management!).
 
 ### Let's Connect :coffee:
