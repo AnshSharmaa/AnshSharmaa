@@ -6,7 +6,7 @@
 - 🤔 I’m looking for people to work with.
 - 💬 Ask me about Get A Tree/Pc parts (maybe?).
 - 📫 How to reach me: I'm most active on Instagram.
-- ⚡ Fun facts: I make music too(beatboxing or otherwise).
+- ⚡ Fun facts: I make music too(with my mouth or otherwise) and I can do cable management.
 
 ### Let's Connect :coffee:
 <p align="center">
