@@ -10,8 +10,8 @@
 
 ### Let's Connect :coffee:
 <p align="center">
-<a href="https://github.com/AnshSharmaa" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="_blank"/></a>
-<a href="https://www.linkedin.com/in/ansh-sharma-0189b5195/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
-<a href="https://www.instagram.com/ansh.x_x/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" target="_blank"/></a>
+<a href="https://github.com/AnshSharmaa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ansh-sharma-0189b5195/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ansh.x_x/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <br />
 </p>
