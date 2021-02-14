@@ -12,6 +12,6 @@
 <p align="center">
 <a href="https://github.com/AnshSharmaa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/ansh-sharma-0189b5195/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/ansh.x_x/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://www.instagram.com/ansh.x_x/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <br />
 </p>
